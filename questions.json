@@ -1,0 +1,57 @@
+[
+  {
+    "part": "P1-C1: Tế bào nhân sơ & nhân thực",
+    "level": "Dễ",
+    "question": "Ai là người đầu tiên quan sát tế bào (1665) và đặt ra thuật ngữ 'cell'?",
+    "A": "Robert Hooke",
+    "B": "Schleiden",
+    "C": "Schwann",
+    "D": "Leeuwenhoek",
+    "correct": "A",
+    "explain": "Robert Hooke quan sát lát bần năm 1665."
+  },
+  {
+    "part": "P1-CĐ: Màng tế bào",
+    "level": "Dễ",
+    "question": "Mô hình cấu tạo màng tế bào hiện nay là gì?",
+    "A": "Khảm lỏng (Fluid Mosaic)",
+    "B": "Khảm cứng",
+    "C": "Bánh sandwich tĩnh",
+    "D": "Màng đơn vị tĩnh",
+    "correct": "A",
+    "explain": "Singer-Nicolson (1972): lớp kép phospholipid khảm protein."
+  },
+  {
+    "part": "P2-C2: Trao đổi chất & Năng lượng",
+    "level": "Trung bình",
+    "question": "Đường phân (EMP) diễn ra ở đâu và thu được bao nhiêu ATP ròng?",
+    "A": "Bào tương – 2 ATP ròng + 2 NADH + 2 pyruvate",
+    "B": "Ty thể – 32 ATP",
+    "C": "Nhân – 4 ATP",
+    "D": "Màng thylakoid – 2 ATP",
+    "correct": "A",
+    "explain": "Đường phân tại bào tương, không cần O2."
+  },
+  {
+    "part": "P3-C3.1: Dinh dưỡng & Sinh trưởng VSV",
+    "level": "Dễ",
+    "question": "Thứ tự 4 pha sinh trưởng trong nuôi cấy theo mẻ (hệ kín)?",
+    "A": "Lag → Log → Stationary → Death",
+    "B": "Log → Lag → Death → Stationary",
+    "C": "Death → Log → Lag → Stationary",
+    "D": "Stationary → Log → Lag → Death",
+    "correct": "A",
+    "explain": "Tiềm phát – Lũy thừa – Cân bằng – Suy vong."
+  },
+  {
+    "part": "P4-CĐ: Truyền tin tế bào",
+    "level": "Dễ",
+    "question": "Hormone insulin từ tụy qua máu đến gan là hình thức truyền tin nào?",
+    "A": "Nội tiết (Endocrine)",
+    "B": "Cận tiết (Paracrine)",
+    "C": "Tự tiết (Autocrine)",
+    "D": "Tiếp xúc trực tiếp (Juxtacrine)",
+    "correct": "A",
+    "explain": "Nội tiết: đi qua máu, xa, chậm, kéo dài."
+  }
+]
